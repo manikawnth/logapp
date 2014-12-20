@@ -1,4 +1,4 @@
 logapp
 ======
 
-log application with chat
+log application with chat facility
