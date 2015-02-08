@@ -1,8 +1,8 @@
 {
-  "name": "spapp",
+  "name": "newapp",
   "version": "1.0.0",
   "description": "single page app",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,6 +14,8 @@
     "mongodb": "^1.4.23",
     "mongoose": "^3.8.20",
     "nodemon": "^1.2.1",
+    "passport": "^0.2.1",
+    "passport-local": "^1.0.0",
     "socket.io": "^1.2.1"
   }
 }
